@@ -14,8 +14,6 @@ pip install streamlit==0.84.2
 
 ![Web Interface Showing Validated Block](/Images/web_validate.PNG)
 
-![Block Inspector Showing multiple Blocks](/Images/Block_Inspector.PNG)
-
 ![Block Inspector Showing lastest completed Block](/Images/Block_Inspector_2.PNG)
 
 ![Image of Hash Records In Web Dashboard](/Images/Hash_webinterface.PNG)
