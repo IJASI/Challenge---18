@@ -34,8 +34,10 @@ coinbasedf['Close'].loc['2018-1-29'].plot(
 or you can get a dataframe for your statical analysis in order view for instance which trades would be positive 
 
 ![Coinbase V Bitstamp closing prices for 1/29/18](/Images/Statistic_over_zero_early.PNG)
- 
-[Link to interface] (http://localhost:8501/)
+
+![Video demo](https://user-images.githubusercontent.com/85713622/139613089-5775a1f8-d007-47e3-b1a1-42e95db127e6.mp4)
+
+ ![Link to interface] (http://localhost:8501/)
 
 ## Contributors(ing)
 This a project designed by:
@@ -50,5 +52,9 @@ The Columbia Fintech Bootcamp TAs and Tutors.
 ## License
 
 [See GNU v3.0](https://github.com/IJASI/Challenge-3/blob/491335d4123fae396530363cb79be7070e049796/LICENSE)
+
+
+
+https://user-images.githubusercontent.com/85713622/139613089-5775a1f8-d007-47e3-b1a1-42e95db127e6.mp4
 
 
