@@ -36,6 +36,10 @@ or you can get a dataframe for your statical analysis in order view for instance
 ![Coinbase V Bitstamp closing prices for 1/29/18](/Images/Statistic_over_zero_early.PNG)
 
 ![Video demo]
+
+https://user-images.githubusercontent.com/85713622/139613459-3011bc61-fafb-4f1e-b7b2-97b168bea91e.mp4
+
+
 https://user-images.githubusercontent.com/85713622/139613089-5775a1f8-d007-47e3-b1a1-42e95db127e6.mp4
 
  ![Link to interface] (http://localhost:8501/)
