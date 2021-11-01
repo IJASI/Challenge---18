@@ -11,20 +11,21 @@ conda activate dev
 pip install streamlit==0.84.2
 ```
 
-![Coinbase V Bitstamp closing prices for 1/29/18](/Images/Bitstamp_v_Coinbase_early.PNG)
+![Web Interface Showing Validated Block ](/Images/web_validate.PNG)
 
-![Coinbase V Bitstamp closing prices for 1/29/18](/Images/Bitstamp_v_Coinbase_middle.PNG)
+![Block Inspector Showing multiple Blocks](/Images/Block_Inspector.PNG)
 
+![Block Inspector Showing lastest completed Block](/Images/Block_Inspector_2.PNG)
 
-or you can get a dataframe for your statical analysis in order view for instance which trades would be positive 
+![Image of Hash Records In Web Dashboard](/Images/Hash_webinterface.PNG)
 
-![Coinbase V Bitstamp closing prices for 1/29/18](/Images/Statistic_over_zero_early.PNG)
+![Image of Hash Records In Terminal](/Images/Hash_Terminal.PNG)
 
 ![Video demo]
 
 https://user-images.githubusercontent.com/85713622/139613459-3011bc61-fafb-4f1e-b7b2-97b168bea91e.mp4
 
- ![Link to interface] (http://localhost:8501/)
+![Link to interface] (http://localhost:8501/)
 
 ## Contributors(ing)
 This a project designed by:
