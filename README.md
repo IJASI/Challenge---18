@@ -11,7 +11,8 @@ conda activate dev
 pip install streamlit==0.84.2
 ```
 
-[Web Interface Showing Validated Block](/Images/web_validate.PNG)
+
+![Web Interface Showing Validated Block](/Images/web_validate.PNG)
 
 ![Block Inspector Showing multiple Blocks](/Images/Block_Inspector.PNG)
 
